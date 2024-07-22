@@ -1,0 +1,19 @@
+name: car-price-prediction
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - scikit-learn
+  - mlflow
+  - boto3
+  - evidently
+  - flake8
+  - black
+  - pytest
+  - kafka-python
+  - awscli
+  - pip
+  - pip:
+      - prefect

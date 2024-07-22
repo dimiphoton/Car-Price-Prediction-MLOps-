@@ -1,0 +1,43 @@
+## Requirements.txt file
+
+# Data manipulation and analysis
+numpy
+pandas
+
+# Data visualisation
+matplotlib
+seaborn
+statsmodels
+
+# Machine Learning
+scikit-learn
+
+# Filesystem handling 
+pathlib
+python-dotenv
+
+# Model Tracking
+mlflow
+
+# AWS SDK for Python - used for interacting with AWS services
+boto3
+
+# PostgreSQL 
+psycopg
+psycopg_binary
+psycopg2
+psycopg2_binary
+
+# Prefect
+prefect
+prefect-aws
+
+# Deployment
+flask
+gunicorn
+requests
+
+# Testing
+pytest
+pylint
+psutil
